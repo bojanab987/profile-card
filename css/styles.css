@@ -83,11 +83,12 @@
     font-size: 1.125rem;
     opacity: 0.7;
     margin-left: 0.25rem;
+    color: var(--primary-darkGrayishBlue)
  }
 
  .location {
      font-size: 0.875rem;
-     color: var(--neutral-darkGray);
+     color: var(--primary-darkGrayishBlue);
      padding-bottom:0.725rem ;
  }
 /*Profile statistics*/
